@@ -1,0 +1,19 @@
+
+.numered_elements {
+    background-color: rgb(226, 160, 160);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second_element {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#fourth_element {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
+
+.additional_style {
+    font-size: 24px;
+}
